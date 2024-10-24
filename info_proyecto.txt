@@ -1,2 +1,5 @@
 Hola
 Añadimos otra línea
+=======
+Primera línea
+Segunda línea
